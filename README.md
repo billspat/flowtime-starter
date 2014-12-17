@@ -15,7 +15,7 @@ This project simply re-organizes the original flowtime.js project to collect all
 
 For more examples, please see the 'examples' folder in [https://github.com/marcolago/flowtime.js](https://github.com/marcolago/flowtime.js)
 
-You may want to use the yoeman based https://github.com/sasaplus1/generator-flowtime
+You may want to use the yoeman based https://github.com/sasaplus1/generator-flowtime which looks like a better way to proceed but that I couldn't get to work. 
 
  
 
